@@ -1121,9 +1121,9 @@ progress@^2.0.0:
   integrity sha512-7PiHtLll5LdnKIMw100I+8xJXR5gW2QwWYkT6iJva0bXitZKa/XMrSbdmg3r2Xnaidz9Qumd0VPaMrZlF9V9sA==
 
 protobufjs@^7.0.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/protobufjs/-/protobufjs-7.1.0.tgz#5174b5f96fad4f7dea7dd4abd594042ac360e665"
-  integrity sha512-rCuxKlh0UQKSMjrpIcTLbR5TtGQ52cgs1a5nUoPBAKOccdPblN67BJtjrbtudUJK6HmBvUdsmymyYOzO7lxZEA==
+  version "7.2.4"
+  resolved "https://registry.yarnpkg.com/protobufjs/-/protobufjs-7.2.4.tgz#3fc1ec0cdc89dd91aef9ba6037ba07408485c3ae"
+  integrity sha512-AT+RJgD2sH8phPmCf7OUZR8xGdcJRga4+1cOaXJ64hvcSkVhNcRHOwIxUatPH15+nj59WAGTDv3LSGZPEQbJaQ==
   dependencies:
     "@protobufjs/aspromise" "^1.1.2"
     "@protobufjs/base64" "^1.1.2"
