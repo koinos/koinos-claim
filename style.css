@@ -107,7 +107,7 @@ textarea {
   color: #d1d1d1;
   font-weight: 300;
   border-top: 1px solid var(--background-color);
-  width: 100%;
+  width: 100vw;
   text-align: center;
 }
 
@@ -423,7 +423,7 @@ textarea {
   margin: 1em;
   position: relative;
   padding: 2em 3em 2em 3em;
-  min-height: 20em;
+  min-height: 25em;
 }
 .card .group {
   justify-content: space-between;
